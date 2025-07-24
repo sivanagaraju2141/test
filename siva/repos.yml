@@ -1,0 +1,7 @@
+projects:
+  aai:
+    github_org: test
+    product_name: siva
+    repos:
+      - source: "test"
+        destination: "test"
